@@ -1,5 +1,7 @@
 # vue-learning-crud
 
+exploring Vue for the first time!
+
 ## Project setup
 ```
 yarn install
